@@ -1,10 +1,10 @@
 # Pewlett-Hackard-Analysis
 
-##Overview of the analysis: 
+## Overview of the analysis: 
 The purpose of this analysis is to break down the total employee database and get a count of how many employees are near retirement by  job title and get a count of how many employees are eligible to participate in a mentorship program.
 
 
-##Results:
+## Results:
 
 Based on the data analysis here are the results I see:
 - There are a total of 90398 employees near retirement age.
@@ -12,7 +12,7 @@ Based on the data analysis here are the results I see:
 - There will not be a large impact in the management positions. 
 - 1549 employees are eligible for the mentor shipment program.
 
-##Summary:
+## Summary:
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
